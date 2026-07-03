@@ -1,0 +1,43 @@
+{
+  "dry_run": true,
+  "action_type": "update",
+
+  "create_str_from": "data_fix",
+  "master_policy_effective_date": "12/01/2025",
+
+  "allow_custom_effective_date_logic": true,
+  "allow_renewals": true,
+  "max_renewal_iterations": 36,
+
+  "allow_flat_cancel": true,
+  "allow_reverse_resident_transactions": false,
+  "allow_reverse_property_transactions": false,
+
+  "allow_resident_charge_posting": false,
+  "allow_property_charge_posting": false,
+  "allow_copy_prior_fpp_resident_charges": true,
+  "replace_ar_if_fpp_already_linked": false,
+  "clear_ar_transaction_id_on_old_fpp_after_copying_resident_charges_to_new_policy": false,
+  "allow_copy_prior_mpc_property_charges": false,
+
+  "skip_policy_in_queue_if_policy_is_already_cancelled": false,
+  "apply_mpc_is_disabled_filter": true,
+  "require_mpc_carrier_export_batch_id": true,
+  "require_mpc_nonzero_export_premium": true,
+
+  "datafix_send_email_forced_placed_enrollment": false,
+  "datafix_send_email_forced_placed_renewal": false,
+  "datafix_send_email_forced_placed_cancel": false,
+
+  "master_policy_ids_to_update": [
+    846308
+  ],
+  "create_rows": [
+    {
+      "cid": 14156,
+      "property_id": 745865,
+      "lease_id": 15672230,
+      "lead_source_type_id": 1
+    }
+  ]
+}

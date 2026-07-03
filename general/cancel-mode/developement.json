@@ -1,0 +1,18 @@
+{
+  "dry_run": true,
+  "action_type": "cancel",
+
+  "allow_flat_cancel": true,
+  "allow_reverse_resident_transactions": false,
+  "allow_reverse_property_transactions": false,
+  "allow_content_only_master_policy_cancel": false,
+
+  "suppress_cancel_email": true,
+  "datafix_send_email_forced_placed_enrollment": false,
+  "datafix_send_email_forced_placed_renewal": false,
+  "datafix_send_email_forced_placed_cancel": false,
+
+  "master_policy_ids": [
+    846308
+  ]
+}

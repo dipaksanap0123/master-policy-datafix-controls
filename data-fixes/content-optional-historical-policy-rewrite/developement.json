@@ -1,0 +1,28 @@
+{
+  "dry_run": true,
+  "action_type": "content_optional_historical_policy_rewrite",
+
+  "content_optional_historical_policy_rewrite_cids": [
+    14156
+  ],
+  "content_optional_historical_policy_rewrite_property_ids": [],
+  "content_optional_historical_policy_rewrite_lease_ids": [],
+  "content_optional_historical_policy_rewrite_master_policy_ids": [],
+  "content_optional_historical_policy_rewrite_master_policy_coverage_ids": [],
+  "content_optional_historical_policy_rewrite_current_product_ids": [],
+
+  "content_optional_historical_policy_rewrite_effective_date_from": "",
+  "content_optional_historical_policy_rewrite_effective_date_to": "",
+  "content_optional_historical_policy_rewrite_mpc_start_date_from": "",
+  "content_optional_historical_policy_rewrite_mpc_start_date_to": "",
+
+  "content_optional_historical_policy_rewrite_limit": 20,
+  "content_optional_historical_policy_rewrite_batch_size": 500,
+  "content_optional_historical_policy_rewrite_money_tolerance": 0.01,
+  "content_optional_historical_policy_rewrite_include_exported_or_billed": true,
+  "content_optional_historical_policy_rewrite_exclude_fast_cancelled": true,
+
+  "allow_content_optional_historical_policy_rewrite_non_exported_write": false,
+  "allow_content_optional_historical_policy_rewrite_exported_or_billed_write": false,
+  "allow_content_optional_historical_policy_rewrite_resident_charge_changes": false
+}
