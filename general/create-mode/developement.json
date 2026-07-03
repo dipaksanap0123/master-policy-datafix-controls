@@ -1,0 +1,49 @@
+{
+  "dry_run": true,
+  "action_type": "create",
+  "create_str_from": "data_fix",
+
+  "allow_renewals": true,
+  "max_renewal_iterations": 36,
+
+  "allow_resident_charge_posting": true,
+  "allow_property_charge_posting": true,
+
+  "allow_custom_effective_date_logic": false,
+  "allow_precheck_hook_create": false,
+
+  "datafix_send_email_forced_placed_enrollment": false,
+  "datafix_send_email_forced_placed_renewal": false,
+  "datafix_send_email_forced_placed_cancel": false,
+
+  "create_rows": [
+    {
+      "cid": 14156,
+      "property_id": 745865,
+      "lease_id": 35343,
+      "lead_source_type_id": 1,
+      "master_policy_effective_date": "01/01/2026"
+    },
+    {
+      "cid": 6455,
+      "property_id": 123456,
+      "lease_id": 6767576,
+      "lead_source_type_id": 1,
+      "master_policy_effective_date": "01/01/2026"
+    },
+    {
+      "cid": 1415,
+      "property_id": 123456,
+      "lease_id": 64656,
+      "lead_source_type_id": 1,
+      "master_policy_effective_date": "01/01/2026"
+    },
+    {
+      "cid": 4535,
+      "property_id": 123456,
+      "lease_id": 321234,
+      "lead_source_type_id": 1,
+      "master_policy_effective_date": "01/01/2026"
+    }
+  ]
+}
