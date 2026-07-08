@@ -3,6 +3,9 @@
   "action_type": "create",
   "create_str_from": "data_fix",
 
+  "selected_personal_coverage_amount_id": null,
+  "selected_personal_content_amount": null,
+
   "allow_renewals": true,
   "max_renewal_iterations": 36,
 

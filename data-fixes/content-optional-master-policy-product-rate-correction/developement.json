@@ -3,9 +3,9 @@
   "action_type": "content_optional_master_policy_product_rate_correction",
 
   "content_optional_master_policy_product_rate_correction_cids": [
-    14156
+    17494
   ],
-  "content_optional_master_policy_product_rate_correction_master_policy_product_ids": [],
+  "content_optional_master_policy_product_rate_correction_master_policy_product_ids": ['8232'],
   "content_optional_master_policy_product_rate_correction_limit": 20,
   "content_optional_master_policy_product_rate_correction_batch_size": 500,
   "content_optional_master_policy_product_rate_correction_money_tolerance": 0.01,

@@ -2,7 +2,7 @@
   "dry_run": true,
   "action_type": "bridge_policy",
 
-  "bridge_start_date": "11/01/2025",
+  "bridge_start_date": "12/01/2025",
   "minimum_gap_days_before_next_policy": 10,
 
   "allow_renewals": true,
@@ -18,8 +18,8 @@
   "bridge_policy_rows": [
     {
       "cid": 14156,
-      "property_id": 745865,
-      "lease_id": 15671885
+      "property_id": 1356058,
+      "lease_id": 15684922
     }
   ]
 }

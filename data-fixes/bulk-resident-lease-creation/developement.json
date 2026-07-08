@@ -1,0 +1,55 @@
+{
+  "dry_run": true,
+  "action_type": "bulk_resident_lease_creation",
+  "create_str_from": "data_fix",
+
+  "allow_bulk_resident_lease_creation_write": false,
+  "bulk_resident_lease_creation_max_residents": 500,
+  "allow_reuse_units_for_bulk_resident_lease_creation": false,
+
+  "allow_renewals": false,
+  "max_renewal_iterations": 36,
+
+  "allow_resident_charge_posting": true,
+  "allow_property_charge_posting": true,
+
+  "allow_custom_effective_date_logic": false,
+  "allow_precheck_hook_create": false,
+
+  "datafix_send_email_forced_placed_enrollment": false,
+  "datafix_send_email_forced_placed_renewal": false,
+  "datafix_send_email_forced_placed_cancel": false,
+
+  "selected_personal_coverage_amount_id": null,
+  "selected_personal_content_amount": null,
+
+  "resident_lease_rows": [
+    {
+      "cid": 14156,
+      "property_id": 1356058,
+      "count": 1,
+
+      "lease_status": "future",
+      "move_in_date": null,
+      "lease_start_date": null,
+      "lease_end_date": null,
+      "lease_terms": null,
+
+      "unit": null,
+      "unit_space_id": null,
+      "property_unit_id": null,
+
+      "first_name": null,
+      "last_name": null,
+      "birth_date": null,
+      "email_address": null,
+
+      "require_master_policy": true,
+      "lead_source_type_id": 1,
+      "master_policy_effective_date": null,
+
+      "selected_personal_coverage_amount_id": null,
+      "selected_personal_content_amount": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dry_run": false,
+  "environment": "production",
+  "action_type": "recalculate_master_policy_coverages",
+
+  "mpc_premium_recalculation_cids": [
+    3482
+  ],
+  "mpc_premium_recalculation_property_ids": [],
+  "mpc_premium_recalculation_lease_ids": [],
+  "mpc_premium_recalculation_master_policy_ids": [],
+  "mpc_premium_recalculation_master_policy_numbers": [],
+  "mpc_premium_recalculation_master_policy_coverage_ids": [],
+  "mpc_premium_recalculation_month": "",
+
+  "mpc_premium_recalculation_renewals_only": true,
+  "mpc_premium_recalculation_record_types": [
+    "renewal"
+  ],
+  "mpc_premium_recalculation_use_documents_export_candidate_scope": true,
+  "mpc_premium_recalculation_limit": -1,
+  "mpc_premium_recalculation_batch_size": 500,
+  "mpc_premium_recalculation_money_tolerance": 0.01,
+
+  "allow_mpc_premium_recalculation_write": true
+}
