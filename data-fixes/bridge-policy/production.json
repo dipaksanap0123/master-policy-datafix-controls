@@ -1,0 +1,2206 @@
+{
+	"dry_run": false,
+	"action_type": "bridge_policy",
+	"note": "Westland bad-end-date master policy gap bridge rows generated from CSV. Creates one bridge policy per unique cid/property_id/lease_id from 2025-12-01 through the next RIP start.",
+	"bridge_start_date": "2025-12-01",
+	"minimum_gap_days_before_next_policy": 1,
+	"allow_renewals": true,
+	"max_renewal_iterations": 36,
+	"allow_resident_charge_posting": false,
+	"allow_property_charge_posting": true,
+	"datafix_send_email_forced_placed_enrollment": false,
+	"datafix_send_email_forced_placed_renewal": false,
+	"datafix_send_email_forced_placed_cancel": false,
+	"bridge_policy_rows": [
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315735
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315761
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315762
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315777
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315780
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315791
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315838
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315847
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315849
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315862
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315875
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315891
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315902
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315920
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315921
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315922
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318010
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318013
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318027
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318037
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318046
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318155
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318204
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318240
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318272
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318302
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318352
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318361
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318370
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318403
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318458
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318474
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318490
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200370,
+			"lease_id": 15318516
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200370,
+			"lease_id": 15318644
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200370,
+			"lease_id": 15318652
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318705
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200370,
+			"lease_id": 15318760
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200370,
+			"lease_id": 15318764
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200378,
+			"lease_id": 15318832
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200370,
+			"lease_id": 15318841
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200370,
+			"lease_id": 15318855
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200370,
+			"lease_id": 15319055
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15319355
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200353,
+			"lease_id": 15319529
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200353,
+			"lease_id": 15319585
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200353,
+			"lease_id": 15319621
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200353,
+			"lease_id": 15319745
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200394,
+			"lease_id": 15320464
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200394,
+			"lease_id": 15320486
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200394,
+			"lease_id": 15320501
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200386,
+			"lease_id": 15323782
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200386,
+			"lease_id": 15323824
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200386,
+			"lease_id": 15323847
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200386,
+			"lease_id": 15324010
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200386,
+			"lease_id": 15324455
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200386,
+			"lease_id": 15324608
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200386,
+			"lease_id": 15324705
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15325139
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15325176
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15325291
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200383,
+			"lease_id": 15325374
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200383,
+			"lease_id": 15325396
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15325417
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15325689
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200371,
+			"lease_id": 15325993
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15326003
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15326051
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15326120
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15326214
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200363,
+			"lease_id": 15326323
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15326408
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200371,
+			"lease_id": 15326416
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15326486
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15326498
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15326509
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15326564
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15326578
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15326616
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15326798
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15326908
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15327103
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15327125
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15327140
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327224
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15327367
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327381
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327397
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15327436
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327529
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327581
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15327662
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15327712
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327767
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15327768
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15327823
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15327843
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327909
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200355,
+			"lease_id": 15327910
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327922
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327925
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15328016
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15328044
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15328046
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15328063
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15328077
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15328110
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15328121
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15328135
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200347,
+			"lease_id": 15328220
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200352,
+			"lease_id": 15328328
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200347,
+			"lease_id": 15328418
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200347,
+			"lease_id": 15328465
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200347,
+			"lease_id": 15328578
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200347,
+			"lease_id": 15328659
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200347,
+			"lease_id": 15328691
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200412,
+			"lease_id": 15330059
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200396,
+			"lease_id": 15330377
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200396,
+			"lease_id": 15330559
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200391,
+			"lease_id": 15330610
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200391,
+			"lease_id": 15330648
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200391,
+			"lease_id": 15330754
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200391,
+			"lease_id": 15330770
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200391,
+			"lease_id": 15331233
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200391,
+			"lease_id": 15331266
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200391,
+			"lease_id": 15331328
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200391,
+			"lease_id": 15331341
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200377,
+			"lease_id": 15331406
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200377,
+			"lease_id": 15331427
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200377,
+			"lease_id": 15331524
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200377,
+			"lease_id": 15331636
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200391,
+			"lease_id": 15331653
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200377,
+			"lease_id": 15331676
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15331770
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15331841
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15331862
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15331900
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15331908
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15331918
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15331920
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15331924
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15331933
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15331937
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15331940
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15331945
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15331954
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15331986
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332005
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332012
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332025
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332034
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332047
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332050
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332091
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332102
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332111
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332121
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200364,
+			"lease_id": 15332127
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15332136
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200364,
+			"lease_id": 15332148
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15332164
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332165
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332173
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332182
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15332186
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15332192
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332214
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200369,
+			"lease_id": 15332220
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200364,
+			"lease_id": 15332232
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332234
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15332240
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332255
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332264
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15332265
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332275
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332297
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200369,
+			"lease_id": 15332304
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200369,
+			"lease_id": 15332336
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332340
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15332359
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332374
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200369,
+			"lease_id": 15332394
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332403
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332410
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332441
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200369,
+			"lease_id": 15332448
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200364,
+			"lease_id": 15332453
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15332467
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15332478
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332482
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200364,
+			"lease_id": 15332494
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200364,
+			"lease_id": 15332535
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200369,
+			"lease_id": 15332538
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15332553
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200364,
+			"lease_id": 15332558
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332567
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200364,
+			"lease_id": 15332604
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15332612
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200369,
+			"lease_id": 15332615
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332618
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332662
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200364,
+			"lease_id": 15332687
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15332696
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15332748
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15332761
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15332796
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332832
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332836
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332842
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332918
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15332942
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15332978
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200364,
+			"lease_id": 15333055
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15333105
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333150
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333291
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333320
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333323
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333325
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333327
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333353
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333368
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333369
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333372
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333380
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333388
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333393
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333400
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333474
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333544
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333547
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333556
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200384,
+			"lease_id": 15336565
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200384,
+			"lease_id": 15336604
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200384,
+			"lease_id": 15336634
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200384,
+			"lease_id": 15336719
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200384,
+			"lease_id": 15336761
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15336781
+		},
+		{
+			"cid": 18729,
+			"property_id": 1310033,
+			"lease_id": 15336789
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15336845
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15336936
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15336999
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337051
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337083
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337125
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337152
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337269
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337313
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337410
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200384,
+			"lease_id": 15337434
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337474
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337511
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337527
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337573
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337608
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337683
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337701
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337742
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337825
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337863
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337947
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337971
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337993
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15338055
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15338083
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15338212
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15338353
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15338545
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15338598
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15338673
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15338689
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15338846
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15338852
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15338906
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15339024
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15339109
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15339155
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15339194
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15339208
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15339349
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15339375
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15339388
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15339407
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15339438
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15339584
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15339595
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15339711
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15339716
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15339882
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15339883
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15339912
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15339950
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15340004
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15340030
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15340031
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15340108
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15340176
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15340228
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15340237
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15340370
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15340401
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15340499
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15340540
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15340730
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15340807
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200354,
+			"lease_id": 15340883
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15340890
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15340962
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15341038
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15341225
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15341332
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341546
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341645
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341656
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341708
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341724
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341791
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341797
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341806
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341820
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341834
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341849
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341911
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341919
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341921
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341954
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341957
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341965
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15341991
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342017
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342037
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342064
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342091
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342093
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342143
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342161
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342166
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200346,
+			"lease_id": 15342180
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342294
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342296
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342322
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342340
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342353
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342354
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342410
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342574
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342663
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342671
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342679
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342680
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342780
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342795
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342833
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342854
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342857
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342875
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342880
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342923
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342924
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342961
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342969
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15343132
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15343140
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15343172
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15343195
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15343205
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15343206
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15343229
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200346,
+			"lease_id": 15369672
+		},
+		{
+			"cid": 18729,
+			"property_id": 1310033,
+			"lease_id": 15378690
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15383937
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15385349
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15386136
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200470,
+			"lease_id": 15391440
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200365,
+			"lease_id": 15401740
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318436
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15343253
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342088
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342423
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200347,
+			"lease_id": 15390331
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342229
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15385000
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200402,
+			"lease_id": 15398103
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332141
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200384,
+			"lease_id": 15336657
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200345,
+			"lease_id": 15342211
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200410,
+			"lease_id": 15349698
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200451,
+			"lease_id": 15373866
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200485,
+			"lease_id": 15380968
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200363,
+			"lease_id": 15326993
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327794
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327848
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332588
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315923
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200353,
+			"lease_id": 15319558
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200391,
+			"lease_id": 15330947
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15332103
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200375,
+			"lease_id": 15332144
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332200
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332358
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200356,
+			"lease_id": 15332573
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332613
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337139
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15339143
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15339238
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200346,
+			"lease_id": 15341149
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342484
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200385,
+			"lease_id": 15318426
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200370,
+			"lease_id": 15318543
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200378,
+			"lease_id": 15318877
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200353,
+			"lease_id": 15319554
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200386,
+			"lease_id": 15323938
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200383,
+			"lease_id": 15325346
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200359,
+			"lease_id": 15325773
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200358,
+			"lease_id": 15327898
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333286
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337544
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337662
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200357,
+			"lease_id": 15337720
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342802
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200344,
+			"lease_id": 15342841
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15331990
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200369,
+			"lease_id": 15332163
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333070
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15338961
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15340132
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200350,
+			"lease_id": 15340737
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15339034
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200351,
+			"lease_id": 15339392
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200352,
+			"lease_id": 15327006
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200364,
+			"lease_id": 15331605
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200369,
+			"lease_id": 15332282
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200369,
+			"lease_id": 15332293
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15332488
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200361,
+			"lease_id": 15333004
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200348,
+			"lease_id": 15333066
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200360,
+			"lease_id": 15315916
+		},
+		{
+			"cid": 18729,
+			"property_id": 1200398,
+			"lease_id": 15420569
+		}
+	]
+}
