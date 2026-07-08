@@ -1,7 +1,6 @@
 {
   "dry_run": true,
   "action_type": "renewal_liability_tier_override_correction",
-
   "renewal_liability_tier_override_correction_month": "",
   "renewal_liability_tier_override_correction_cids": [
     14156
@@ -14,7 +13,6 @@
   ],
   "renewal_liability_tier_override_correction_limit": 20,
   "renewal_liability_tier_override_correction_batch_size": 500,
-
   "allow_renewal_liability_tier_override_correction_write": false,
   "allow_renewal_liability_tier_override_correction_secondary_tier": false
 }
