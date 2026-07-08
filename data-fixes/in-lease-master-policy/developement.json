@@ -1,23 +1,19 @@
 {
   "dry_run": true,
   "action_type": "in_lease_master_policy_before_lease_start",
-
   "in_lease_master_policy_before_lease_start_include_no_action_rows": false,
   "in_lease_master_policy_before_lease_start_create_replacement_for_cancelled": true,
   "in_lease_master_policy_before_lease_start_reconcile_old_policy_full_return_mpc": true,
   "in_lease_master_policy_before_lease_start_skip_if_existing_replacement_after_lease_start": true,
   "in_lease_master_policy_before_lease_start_skip_replacement_if_lease_requirements_satisfied": true,
   "in_lease_master_policy_before_lease_start_allow_renew_replacement": true,
-
   "allow_reverse_resident_transactions": true,
   "allow_reverse_property_transactions": true,
   "allow_resident_charge_posting": false,
   "allow_property_charge_posting": false,
-
   "datafix_send_email_forced_placed_enrollment": false,
   "datafix_send_email_forced_placed_renewal": false,
   "datafix_send_email_forced_placed_cancel": false,
-
   "in_lease_master_policy_before_lease_start_rows": [
     {
       "cid": 14156,
