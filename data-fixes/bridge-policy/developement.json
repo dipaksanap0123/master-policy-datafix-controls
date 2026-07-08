@@ -18,8 +18,8 @@
   "bridge_policy_rows": [
     {
       "cid": 18729,
-			"property_id": 1200360,
-			"lease_id": 15315735,
+	  "property_id": 1200360,
+	  "lease_id": 15315735
     }
   ]
 }
