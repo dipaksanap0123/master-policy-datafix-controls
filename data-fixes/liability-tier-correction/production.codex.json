@@ -16,5 +16,5 @@
   "renewal_liability_tier_override_correction_limit": -1,
   "renewal_liability_tier_override_correction_batch_size": 500,
   "allow_renewal_liability_tier_override_correction_write": true,
-  "allow_renewal_liability_tier_override_correction_secondary_tier": false
+  "allow_renewal_liability_tier_override_correction_secondary_tier": true
 }
