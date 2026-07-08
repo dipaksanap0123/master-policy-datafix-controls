@@ -1,9 +1,8 @@
 {
+  "dry_run": false,
   "cid": 3482,
   "environment": "production",
-  "dry_run": false,
   "action_type": "renewal_liability_tier_override_correction",
-
   "renewal_liability_tier_override_correction_month": "",
   "renewal_liability_tier_override_correction_cids": [
     3482
@@ -16,7 +15,6 @@
   ],
   "renewal_liability_tier_override_correction_limit": -1,
   "renewal_liability_tier_override_correction_batch_size": 500,
-
   "allow_renewal_liability_tier_override_correction_write": true,
   "allow_renewal_liability_tier_override_correction_secondary_tier": false
 }
