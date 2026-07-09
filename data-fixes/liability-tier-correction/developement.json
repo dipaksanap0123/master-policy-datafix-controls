@@ -2,7 +2,7 @@
   "dry_run": true,
   "action_type": "renewal_liability_tier_override_correction",
   "renewal_liability_tier_override_correction_month": "",
-  "renewal_liability_tier_override_correction_cids": [3482],
+  "renewal_liability_tier_override_correction_cids": [],
   "renewal_liability_tier_override_correction_property_ids": [],
   "renewal_liability_tier_override_correction_lease_ids": [],
   "renewal_liability_tier_override_correction_master_policy_coverage_ids": [],
