@@ -1,9 +1,9 @@
 {
   "dry_run": true,
   "action_type": "content_optional_master_policy_product_rate_correction",
-  "content_optional_master_policy_product_rate_correction_cids": [],
-  "content_optional_master_policy_product_rate_correction_master_policy_product_ids": [],
-  "content_optional_master_policy_product_rate_correction_limit": -1,
+  "content_optional_master_policy_product_rate_correction_cids": [14156],
+  "content_optional_master_policy_product_rate_correction_master_policy_product_ids": [7693],
+  "content_optional_master_policy_product_rate_correction_limit": 1,
   "content_optional_master_policy_product_rate_correction_batch_size": 500,
   "content_optional_master_policy_product_rate_correction_money_tolerance": 0.01,
   "allow_content_optional_master_policy_product_rate_correction_write": false
