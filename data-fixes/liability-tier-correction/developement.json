@@ -5,7 +5,7 @@
   "renewal_liability_tier_override_correction_property_ids": [],
   "renewal_liability_tier_override_correction_lease_ids": [12553864],
   "renewal_liability_tier_override_correction_month": "",
-  "renewal_liability_tier_override_correction_limit": -1,
+  "renewal_liability_tier_override_correction_limit": 400,
   "allow_renewal_liability_tier_override_correction_secondary_tier": false,
   "allow_renewal_liability_tier_override_correction_cid_liability_product_fallback": true,
   "renewal_liability_tier_override_correction_cid_liability_product_fallback_cids": [3482],
