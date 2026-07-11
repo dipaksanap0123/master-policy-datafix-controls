@@ -1,20 +1,17 @@
 {
   "dry_run": false,
-  "cid": 3482,
-  "environment": "production",
   "action_type": "renewal_liability_tier_override_correction",
-  "renewal_liability_tier_override_correction_month": "",
-  "renewal_liability_tier_override_correction_cids": [
-    3482
-  ],
+  "renewal_liability_tier_override_correction_cids": [3482],
   "renewal_liability_tier_override_correction_property_ids": [],
   "renewal_liability_tier_override_correction_lease_ids": [],
   "renewal_liability_tier_override_correction_master_policy_coverage_ids": [],
-  "renewal_liability_tier_override_correction_record_types": [
-    "renewal"
-  ],
+  "renewal_liability_tier_override_correction_record_types": ["renewal"],
+  "renewal_liability_tier_override_correction_month": "",
   "renewal_liability_tier_override_correction_limit": -1,
   "renewal_liability_tier_override_correction_batch_size": 500,
-  "allow_renewal_liability_tier_override_correction_write": true,
-  "allow_renewal_liability_tier_override_correction_secondary_tier": true
+  "allow_renewal_liability_tier_override_correction_secondary_tier": true,
+  "allow_renewal_liability_tier_override_correction_cid_liability_product_fallback": true,
+  "renewal_liability_tier_override_correction_cid_liability_product_fallback_cids": [3482],
+  "renewal_liability_tier_override_correction_cid_liability_product_fallback_excluded_master_policy_product_ids": [4530],
+  "allow_renewal_liability_tier_override_correction_write": true
 }
